@@ -10,6 +10,7 @@ A collection of LeetCode questions, a path to master DSA.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions, a path to master DSA.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
