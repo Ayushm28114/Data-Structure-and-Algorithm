@@ -18,6 +18,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0011-container-with-most-water](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -45,5 +46,6 @@ A collection of LeetCode questions, a path to master DSA.
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
