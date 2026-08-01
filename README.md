@@ -9,6 +9,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0001-two-sum](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions, a path to master DSA.
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 ## Binary Search
 |  |
@@ -65,4 +67,12 @@ A collection of LeetCode questions, a path to master DSA.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
