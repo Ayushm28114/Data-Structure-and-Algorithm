@@ -6,6 +6,7 @@ A collection of LeetCode questions, a path to master DSA.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions, a path to master DSA.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
