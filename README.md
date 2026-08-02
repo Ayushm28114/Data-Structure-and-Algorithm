@@ -31,6 +31,7 @@ A collection of LeetCode questions, a path to master DSA.
 | ------- |
 | [0001-two-sum](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions, a path to master DSA.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions, a path to master DSA.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
