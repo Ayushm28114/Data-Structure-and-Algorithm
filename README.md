@@ -38,6 +38,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
