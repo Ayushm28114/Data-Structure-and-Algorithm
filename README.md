@@ -96,5 +96,6 @@ A collection of LeetCode questions, a path to master DSA.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
