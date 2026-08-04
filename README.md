@@ -36,6 +36,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0001-two-sum](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions, a path to master DSA.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
