@@ -84,6 +84,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0088-merge-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
 | ------- |
@@ -101,4 +102,5 @@ A collection of LeetCode questions, a path to master DSA.
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
