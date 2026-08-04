@@ -8,6 +8,7 @@ A collection of LeetCode questions, a path to master DSA.
 | ------- |
 | [0001-two-sum](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions, a path to master DSA.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
