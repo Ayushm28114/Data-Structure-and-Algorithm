@@ -35,6 +35,7 @@ A collection of LeetCode questions, a path to master DSA.
 | ------- |
 | [0001-two-sum](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions, a path to master DSA.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
