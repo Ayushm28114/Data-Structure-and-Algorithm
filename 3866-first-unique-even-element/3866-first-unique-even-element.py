@@ -7,9 +7,8 @@ class Solution:
             else:
                 dict1[num]=1
 
-        for num in nums:
-            if num%2==0:
-                if dict1[num]==1:
-                    return num
+        for k,v in dict1.items():
+            if k%2==0 and v==1:
+                return k
 
         return -1 
