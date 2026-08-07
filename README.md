@@ -12,6 +12,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0242-valid-anagram](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0771-jewels-and-stones) |
 | [3866-first-unique-even-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3866-first-unique-even-element) |
 ## Linked List
@@ -83,6 +84,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0242-valid-anagram](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
@@ -134,4 +137,8 @@ A collection of LeetCode questions, a path to master DSA.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
