@@ -46,6 +46,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions, a path to master DSA.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
