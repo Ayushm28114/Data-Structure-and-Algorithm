@@ -129,6 +129,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0009-palindrome-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 ## Quicksort
 |  |
