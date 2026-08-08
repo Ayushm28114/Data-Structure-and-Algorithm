@@ -57,6 +57,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions, a path to master DSA.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
