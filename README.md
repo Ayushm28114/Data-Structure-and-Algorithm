@@ -46,6 +46,7 @@ A collection of LeetCode questions, a path to master DSA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions, a path to master DSA.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions, a path to master DSA.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
