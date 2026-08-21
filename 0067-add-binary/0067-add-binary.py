@@ -1,9 +1,3 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        m=int(a,2)
-        n=int(b,2)
-
-        ans=m+n
-        
-        sol=format(ans,"b")
-        return sol
+        return format(int(a,2)+int(b,2),"b")
