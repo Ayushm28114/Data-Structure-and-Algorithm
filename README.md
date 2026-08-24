@@ -158,6 +158,7 @@ A collection of LeetCode questions, a path to master DSA.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
