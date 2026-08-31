@@ -11,7 +11,7 @@ class Solution:
 
             for a in range(left, right+1):
                 m[top][a]=count
-                count+=1            
+                count+=1   
             top+=1
 
             for b in range(top, bottom+1):
