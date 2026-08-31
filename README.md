@@ -1,5 +1,5 @@
 # Data-Structure-and-Algorithm
-A collection of LeetCode questions, a path to master DSA.
+A collection of LeetCode questions, a path to master DSA
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
