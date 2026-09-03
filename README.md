@@ -108,6 +108,7 @@ A collection of LeetCode questions, a path to master DSA
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
@@ -216,4 +217,12 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
