@@ -45,6 +45,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0054-spiral-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0020-valid-parentheses/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
