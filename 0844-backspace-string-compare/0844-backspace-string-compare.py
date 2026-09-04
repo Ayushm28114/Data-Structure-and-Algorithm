@@ -14,8 +14,5 @@ class Solution:
                 a.pop()
             else:
                 a.append(ch)
-            
-        b=""
-        for ch in a:
-            b+=ch
-        return b
+        
+        return "".join(a)
