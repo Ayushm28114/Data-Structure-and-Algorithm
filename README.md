@@ -26,6 +26,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
@@ -106,6 +107,7 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 ## String
 | Problem Name | Difficulty |
