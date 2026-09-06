@@ -230,9 +230,22 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0020-valid-parentheses/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0020-valid-parentheses/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
