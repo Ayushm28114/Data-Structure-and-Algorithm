@@ -46,6 +46,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0053-maximum-subarray](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0392-is-subsequence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0383-ransom-note](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0392-is-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
