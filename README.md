@@ -29,6 +29,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0151-reverse-words-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0021-merge-two-sorted-lists](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
