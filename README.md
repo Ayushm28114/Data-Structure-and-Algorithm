@@ -202,6 +202,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
