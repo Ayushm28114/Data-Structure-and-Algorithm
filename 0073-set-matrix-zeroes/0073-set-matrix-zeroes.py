@@ -13,10 +13,7 @@ class Solution:
                     row.add(i)
                     col.add(j)
 
-        for num in row:
+        for i in range(m):
             for j in range(n):
-                matrix[num][j]=0
-        
-        for num in col:
-            for i in range(m):
-                matrix[i][num]=0
+                if i in row or j in col:
+                    matrix[i][j]=0
