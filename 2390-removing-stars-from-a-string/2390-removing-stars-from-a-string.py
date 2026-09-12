@@ -3,8 +3,6 @@ class Solution:
         a=[]
 
         for ch in s:
-            if ch=='*' and not a:
-                continue
             if ch!='*':
                 a.append(ch)
             else:
