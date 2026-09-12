@@ -55,6 +55,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0771-jewels-and-stones](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
+| [1768-merge-strings-alternately](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
