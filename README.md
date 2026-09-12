@@ -210,6 +210,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0070-climbing-stairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -233,6 +234,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0137-single-number-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
