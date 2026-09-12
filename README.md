@@ -156,6 +156,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1768-merge-strings-alternately](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2942-find-words-containing-character/) | Easy |
@@ -254,6 +255,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0059-spiral-matrix-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
