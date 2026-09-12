@@ -6,8 +6,4 @@ class Solution:
         for num in nums:
             dict1[num]= dict1.get(num,0)+1
         
-        for key, value in dict1.items():
-            if value in dict2:
-                return False
-            dict2[value]=key
-        return True
+        return len(dict1.values())== len(set(dict1.values()))
