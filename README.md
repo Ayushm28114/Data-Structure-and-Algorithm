@@ -77,6 +77,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0088-merge-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions, a path to master DSA
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 ## Sliding Window
