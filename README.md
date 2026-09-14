@@ -19,6 +19,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0704-binary-search](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -320,4 +322,8 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->
