@@ -36,6 +36,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0206-reverse-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0392-is-subsequence](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
