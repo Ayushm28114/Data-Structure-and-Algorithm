@@ -24,6 +24,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3866-first-unique-even-element) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2951-find-the-peaks/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -255,6 +257,7 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
