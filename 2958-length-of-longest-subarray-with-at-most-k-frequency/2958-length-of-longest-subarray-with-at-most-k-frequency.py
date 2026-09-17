@@ -6,9 +6,8 @@ class Solution(object):
         :rtype: int
         """
         freq={}
-        l, r = 0, 0
-        max_freq = 0
-
+        l, r, max_freq = 0, 0, 0
+        
         while r<len(nums):
             freq[nums[r]] = freq.get(nums[r], 0) + 1            
             while freq[nums[r]]>k:
