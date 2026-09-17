@@ -6,13 +6,13 @@ class Solution(object):
         :rtype: int
         """
         freq={}
-        l, r, max_freq = 0, 0, 0
+        l, max_freq = 0, 0
         
-        while r<len(nums):
+        for r in range(len(nums)):
             freq[nums[r]] = freq.get(nums[r], 0) + 1            
             while freq[nums[r]]>k:
                 freq[nums[l]]-=1
-                l+=1
+                l+=1    
             max_freq = max(max_freq, r-l+1)
             r+=1
         
