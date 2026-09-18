@@ -109,6 +109,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -141,6 +142,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0059-spiral-matrix-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
