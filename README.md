@@ -96,6 +96,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0414-third-maximum-number/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions, a path to master DSA
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Simulation
