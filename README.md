@@ -104,6 +104,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -258,6 +259,7 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Simulation
