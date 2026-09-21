@@ -26,6 +26,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3866-first-unique-even-element) |
 ## Linked List
@@ -69,6 +70,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2418-sort-the-people](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2951-find-the-peaks/) | Easy |
@@ -220,6 +223,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2418-sort-the-people](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 | Problem Name | Difficulty |
