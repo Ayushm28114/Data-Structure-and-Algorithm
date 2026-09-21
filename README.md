@@ -27,6 +27,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2418-sort-the-people](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2540-minimum-common-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3866-first-unique-even-element) |
 ## Linked List
@@ -71,6 +72,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2540-minimum-common-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2540-minimum-common-value/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2540-minimum-common-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2540-minimum-common-value/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2951-find-the-peaks/) | Easy |
@@ -207,6 +210,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0875-koko-eating-bananas](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2540-minimum-common-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
