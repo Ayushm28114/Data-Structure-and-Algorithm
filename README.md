@@ -7,6 +7,7 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions, a path to master DSA
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0058-length-of-last-word) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions, a path to master DSA
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
