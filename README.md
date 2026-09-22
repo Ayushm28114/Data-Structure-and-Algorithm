@@ -23,6 +23,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1528-shuffle-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
+| [1695-maximum-erasure-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0643-maximum-average-subarray-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Simulation
