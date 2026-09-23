@@ -112,6 +112,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0704-binary-search](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -157,6 +158,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0059-spiral-matrix-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 ## Recursion
@@ -304,6 +306,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
+| [0867-transpose-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0867-transpose-matrix/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Memoization
