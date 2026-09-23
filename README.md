@@ -35,6 +35,7 @@ A collection of LeetCode questions, a path to master DSA
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0061-rotate-list/) | Medium |
@@ -164,6 +165,7 @@ A collection of LeetCode questions, a path to master DSA
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions, a path to master DSA
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
