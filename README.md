@@ -87,6 +87,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0041-first-missing-positive/) | Hard |
+| [0048-rotate-image](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions, a path to master DSA
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -261,6 +263,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0002-add-two-numbers](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
