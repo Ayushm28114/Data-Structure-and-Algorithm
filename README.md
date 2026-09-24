@@ -214,6 +214,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -384,4 +385,8 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
