@@ -141,6 +141,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2942-find-words-containing-character](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2951-find-the-peaks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -277,6 +278,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3871-count-commas-in-range-ii/) | Medium |
