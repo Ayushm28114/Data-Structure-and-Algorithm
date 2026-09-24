@@ -68,6 +68,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0392-is-subsequence](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0832-flipping-an-image](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0643-maximum-average-subarray-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0735-asteroid-collision/) | Medium |
+| [0832-flipping-an-image](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0059-spiral-matrix-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0137-single-number-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -312,6 +316,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0059-spiral-matrix-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0735-asteroid-collision/) | Medium |
+| [0832-flipping-an-image](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0867-transpose-matrix/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2390-removing-stars-from-a-string/) | Medium |
