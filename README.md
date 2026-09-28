@@ -262,6 +262,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0191-number-of-1-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
