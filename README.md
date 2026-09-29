@@ -13,6 +13,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0169-majority-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0088-merge-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
