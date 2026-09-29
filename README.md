@@ -13,6 +13,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0141-linked-list-cycle](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
@@ -108,6 +109,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0169-majority-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
