@@ -129,6 +129,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -244,6 +245,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2418-sort-the-people](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -412,4 +414,8 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
