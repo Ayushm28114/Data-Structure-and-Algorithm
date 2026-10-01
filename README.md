@@ -197,6 +197,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0412-fizz-buzz/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0771-jewels-and-stones) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0070-climbing-stairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0412-fizz-buzz/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0054-spiral-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
