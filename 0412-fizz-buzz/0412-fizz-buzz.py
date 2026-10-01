@@ -10,5 +10,5 @@ class Solution:
             elif i%5==0:
                 s.append("Buzz")
             else:
-                s.append(f"{i}")
+                s.append(str(i))
         return s
