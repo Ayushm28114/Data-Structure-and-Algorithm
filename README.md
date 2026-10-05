@@ -126,6 +126,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0877-stone-game/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0070-climbing-stairs](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0392-is-subsequence/) | Easy |
+| [0877-stone-game](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0877-stone-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0268-missing-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0412-fizz-buzz/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0877-stone-game](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0877-stone-game/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
@@ -432,4 +435,16 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
