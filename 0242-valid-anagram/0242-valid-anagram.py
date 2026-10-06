@@ -5,6 +5,4 @@ class Solution:
         else:
             a=Counter(s)
             b=Counter(t)
-            if a==b:
-                return True
-        return False
+            return a==b
