@@ -168,6 +168,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0011-container-with-most-water](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0409-longest-palindrome/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0771-jewels-and-stones](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1528-shuffle-string/) | Easy |
@@ -368,11 +370,13 @@ A collection of LeetCode questions, a path to master DSA
 | [0234-palindrome-linked-list](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
