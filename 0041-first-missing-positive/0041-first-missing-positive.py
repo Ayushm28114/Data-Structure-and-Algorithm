@@ -4,8 +4,10 @@ class Solution:
         if x<0:
             x=1            
         
-        dict1=Counter(nums)
+        s=set()
+        for num in nums:
+            s.add(num)
         
         for i in range(1,x+len(nums)+1):
-            if i not in dict1:
+            if i not in s:
                 return i
