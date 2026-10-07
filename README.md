@@ -136,6 +136,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1528-shuffle-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -216,6 +217,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1108-defanging-an-ip-address](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1528-shuffle-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
