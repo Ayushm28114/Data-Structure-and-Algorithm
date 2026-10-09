@@ -35,6 +35,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3731-find-missing-elements](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3866-first-unique-even-element) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2951-find-the-peaks](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2951-find-the-peaks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3731-find-missing-elements](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -265,6 +267,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/3731-find-missing-elements/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
