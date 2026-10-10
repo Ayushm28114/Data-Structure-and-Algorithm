@@ -149,6 +149,7 @@ A collection of LeetCode questions, a path to master DSA
 | [2460-apply-operations-to-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2540-minimum-common-value/) | Easy |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2951-find-the-peaks/) | Easy |
@@ -424,6 +425,7 @@ A collection of LeetCode questions, a path to master DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
