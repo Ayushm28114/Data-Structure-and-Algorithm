@@ -23,6 +23,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0409-longest-palindrome/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0283-move-zeroes](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0735-asteroid-collision/) | Medium |
