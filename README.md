@@ -176,6 +176,7 @@ A collection of LeetCode questions, a path to master DSA
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0409-longest-palindrome/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions, a path to master DSA
 | [1108-defanging-an-ip-address](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1528-shuffle-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -382,12 +384,14 @@ A collection of LeetCode questions, a path to master DSA
 | [0735-asteroid-collision](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayushm28114/Data-Structure-and-Algorithm/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
